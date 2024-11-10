@@ -1,10 +1,11 @@
 # Tic Tac Toc Game with AI-Bot
 
 Rule to Play:
-1. The Player will play as "X" and AI-Bot will play as "O".
-2. If you win this game, the score will plus 1 points.
-3. And If you have a stack win 3 times, wou will get the extra score 1 points! 
-4. But you lose, the score will minus 1 points. 
+1. First, Log In by Google Account to play!
+2. The Player will play as "X" and AI-Bot will play as "O".
+3. If you win this game, the score will plus 1 points.
+4. And If you have a stack win 3 times, wou will get the extra score 1 points! 
+5. But you lose, the score will minus 1 points. 
 
 ## Available Scripts
 
