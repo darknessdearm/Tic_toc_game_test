@@ -135,7 +135,7 @@ function GameSection() {
   return (
     <div className="gameSection-container">
       <header>
-        <h2> Tic Tac Toc Game</h2>
+        <h2> Tic Tac Toe Game</h2>
       </header>
       <div className="score">Your Score : {score}</div>
       {showLoading && (

@@ -1,4 +1,4 @@
-# Tic Tac Toc Game with AI-Bot
+# Tic Tac Toe Game with AI-Bot
 
 Rule to Play:
 1. First, Log In by Google Account to play!

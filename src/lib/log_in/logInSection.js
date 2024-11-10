@@ -54,7 +54,7 @@ function LogInSection() {
             <AppBar position="fixed">
               <Toolbar>
                 <Typography variant="h6" component="div" sx={{ flexGrow: 1 }}>
-                  Tic Tac Toc Game
+                  Tic Tac Toe Game
                 </Typography>
                 <Button color="inherit" onClick={logOut}>
                   Log out
@@ -65,7 +65,7 @@ function LogInSection() {
           </div>
         ) : (
           <div className="home">
-            <h2>Welcome to Tic Tac Toc Game</h2>
+            <h2>Welcome to Tic Tac Toe Game</h2>
             <h5>Sign in to play</h5>
             <center>
               <GoogleButton className="button" onClick={() => login()} />
