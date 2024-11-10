@@ -6,8 +6,6 @@ import AppBar from "@mui/material/AppBar";
 import Toolbar from "@mui/material/Toolbar";
 import Typography from "@mui/material/Typography";
 import Button from "@mui/material/Button";
-import IconButton from "@mui/material/IconButton";
-import MenuIcon from "@mui/icons-material/Menu";
 import "./logInSection.css";
 import GameSection from "../game/components/gameSection";
 
@@ -50,19 +48,11 @@ function LogInSection() {
 
   return (
     <div className="logInFromSection">
-      <div classname="conatainer">
+      <div className="conatainer">
         {isLogin ? (
           <div className="navbar">
             <AppBar position="fixed">
               <Toolbar>
-                <IconButton
-                  size="large"
-                  edge="start"
-                  color="inherit"
-                  aria-label="menu"
-                >
-                  <MenuIcon />
-                </IconButton>
                 <Typography variant="h6" component="div" sx={{ flexGrow: 1 }}>
                   Tic Tac Toc Game
                 </Typography>
