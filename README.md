@@ -1,6 +1,10 @@
-# Getting Started with Create React App
+# Tic Tac Toc Game with AI-Bot
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+Rule to Play:
+1. The Player will play as "X" and AI-Bot will play as "O".
+2. If you win this game, the score will plus 1 points.
+3. And If you have a stack win 3 times, wou will get the extra score 1 points! 
+4. But you lose, the score will minus 1 points. 
 
 ## Available Scripts
 
